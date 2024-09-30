@@ -76,11 +76,6 @@ The **Advanced Caesar Cipher Tool** combines the classic Caesar Cipher with AES 
     python3 main.py
     ```
 
-6. **Run the Flask server** (for API use):
-    ```bash
-    python3 -c "from advanced_caesar_cipher_tool import run_server; run_server()"
-    ```
-
 ## Usage
 
 python main.py
