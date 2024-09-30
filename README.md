@@ -22,8 +22,8 @@ The **Advanced Caesar Cipher Tool** combines the classic Caesar Cipher with AES 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Jibinjoseph22/advanced-caesar-cipher-tool.git
-    cd advanced-caesar-cipher-tool
+    git clone https://github.com/krizz04/Advanced-Caesar-cipher.git
+    cd Advanced-Caesar-cipher
     ```
 
 2. **Create and activate a virtual environment** (optional but recommended):
@@ -39,7 +39,7 @@ The **Advanced Caesar Cipher Tool** combines the classic Caesar Cipher with AES 
 
 4. **Run the GUI application**:
     ```bash
-    python advanced_caesar_cipher_tool.py
+    python main.py
     ```
 
 5. **Run the Flask server** (for API use):
