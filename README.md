@@ -83,14 +83,10 @@ The **Advanced Caesar Cipher Tool** combines the classic Caesar Cipher with AES 
 
 ## Usage
 
-- **GUI Mode**: Run the GUI application to encrypt or decrypt text using a user-friendly interface. 
-- **API Mode**: Use the Flask server to send HTTP POST requests to `/encrypt` and `/decrypt` endpoints for encryption and decryption, respectively.
+python main.py
 
 ## Contributing
 
 Feel free to contribute by submitting pull requests or reporting issues.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
